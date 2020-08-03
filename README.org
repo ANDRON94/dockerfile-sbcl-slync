@@ -2,7 +2,7 @@
 This repository contains *Dockerfile* of [[http://joaotavora.github.io/sly/#Connecting-to-a-remote-Lisp][Slynk(SLY backend)]]
 for Docker's automated build published to the [[https://hub.docker.com/r/andron94/dockerfile-sbcl-slynk/][Docker Hub]].
 ** Base Docker Image
-+ [[https://hub.docker.com/r/andron94/dockerfile-quicksbcl/][andron94/dockerfile-quicksbcl:1.4.0]]
++ [[https://hub.docker.com/r/andron94/dockerfile-quicksbcl/][andron94/dockerfile-quicksbcl:1.5.1]]
 ** Installation
 1. Install [[https://docs.docker.com/engine/installation/][Docker]].
 2. Download automated build from public Docker Hub Registry:
